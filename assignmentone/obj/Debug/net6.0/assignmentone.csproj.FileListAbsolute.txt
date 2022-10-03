@@ -1,0 +1,15 @@
+/Users/dylanhahn/Desktop/INFO.350/assignmentone/bin/Debug/net6.0/assignmentone
+/Users/dylanhahn/Desktop/INFO.350/assignmentone/bin/Debug/net6.0/assignmentone.deps.json
+/Users/dylanhahn/Desktop/INFO.350/assignmentone/bin/Debug/net6.0/assignmentone.runtimeconfig.json
+/Users/dylanhahn/Desktop/INFO.350/assignmentone/bin/Debug/net6.0/assignmentone.dll
+/Users/dylanhahn/Desktop/INFO.350/assignmentone/bin/Debug/net6.0/assignmentone.pdb
+/Users/dylanhahn/Desktop/INFO.350/assignmentone/obj/Debug/net6.0/assignmentone.csproj.AssemblyReference.cache
+/Users/dylanhahn/Desktop/INFO.350/assignmentone/obj/Debug/net6.0/assignmentone.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dylanhahn/Desktop/INFO.350/assignmentone/obj/Debug/net6.0/assignmentone.AssemblyInfoInputs.cache
+/Users/dylanhahn/Desktop/INFO.350/assignmentone/obj/Debug/net6.0/assignmentone.AssemblyInfo.cs
+/Users/dylanhahn/Desktop/INFO.350/assignmentone/obj/Debug/net6.0/assignmentone.csproj.CoreCompileInputs.cache
+/Users/dylanhahn/Desktop/INFO.350/assignmentone/obj/Debug/net6.0/assignmentone.dll
+/Users/dylanhahn/Desktop/INFO.350/assignmentone/obj/Debug/net6.0/refint/assignmentone.dll
+/Users/dylanhahn/Desktop/INFO.350/assignmentone/obj/Debug/net6.0/assignmentone.pdb
+/Users/dylanhahn/Desktop/INFO.350/assignmentone/obj/Debug/net6.0/assignmentone.genruntimeconfig.cache
+/Users/dylanhahn/Desktop/INFO.350/assignmentone/obj/Debug/net6.0/ref/assignmentone.dll

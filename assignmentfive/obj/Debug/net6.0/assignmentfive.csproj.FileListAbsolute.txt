@@ -1,0 +1,15 @@
+/Users/dylanhahn/Desktop/INFO.350/assignmentfive/bin/Debug/net6.0/assignmentfive
+/Users/dylanhahn/Desktop/INFO.350/assignmentfive/bin/Debug/net6.0/assignmentfive.deps.json
+/Users/dylanhahn/Desktop/INFO.350/assignmentfive/bin/Debug/net6.0/assignmentfive.runtimeconfig.json
+/Users/dylanhahn/Desktop/INFO.350/assignmentfive/bin/Debug/net6.0/assignmentfive.dll
+/Users/dylanhahn/Desktop/INFO.350/assignmentfive/bin/Debug/net6.0/assignmentfive.pdb
+/Users/dylanhahn/Desktop/INFO.350/assignmentfive/obj/Debug/net6.0/assignmentfive.csproj.AssemblyReference.cache
+/Users/dylanhahn/Desktop/INFO.350/assignmentfive/obj/Debug/net6.0/assignmentfive.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dylanhahn/Desktop/INFO.350/assignmentfive/obj/Debug/net6.0/assignmentfive.AssemblyInfoInputs.cache
+/Users/dylanhahn/Desktop/INFO.350/assignmentfive/obj/Debug/net6.0/assignmentfive.AssemblyInfo.cs
+/Users/dylanhahn/Desktop/INFO.350/assignmentfive/obj/Debug/net6.0/assignmentfive.csproj.CoreCompileInputs.cache
+/Users/dylanhahn/Desktop/INFO.350/assignmentfive/obj/Debug/net6.0/assignmentfive.dll
+/Users/dylanhahn/Desktop/INFO.350/assignmentfive/obj/Debug/net6.0/refint/assignmentfive.dll
+/Users/dylanhahn/Desktop/INFO.350/assignmentfive/obj/Debug/net6.0/assignmentfive.pdb
+/Users/dylanhahn/Desktop/INFO.350/assignmentfive/obj/Debug/net6.0/assignmentfive.genruntimeconfig.cache
+/Users/dylanhahn/Desktop/INFO.350/assignmentfive/obj/Debug/net6.0/ref/assignmentfive.dll
